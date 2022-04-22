@@ -8,7 +8,7 @@ Heyo, don't hurt me plz.
 
 WARN: List contains mostly proprietary software. That blacklist doesn't mean to be something to stop you using these software.
 
-Software also includes other software what can't work propertly without it.
+Any other software what can't work without blacklisted software is also blacklisted.
 (list can be uncomplete):
 
 | Number | Name | External Links |
