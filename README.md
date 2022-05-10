@@ -5,4 +5,4 @@ Heyo, don't hurt me plz.
 * Website: https://gameplayer.tru.io
 
 #### Software Blacklist
-Blacklist is [here](https://github.com/GamePlayer-8/GamePlayer-8/BLACKLIST.md).
+Blacklist is [here](https://github.com/GamePlayer-8/GamePlayer-8/blob/master/BLACKLIST.md).
