@@ -1,6 +1,14 @@
-Heyo, don't hurt me plz. My life is getting more and more depressed by the environment around me. I don't have real friends and even if I try, in all cases I'm being turned into a tool what they just throwing away when it's no needed. It's probably because I'm quiet and I'm not saying anything interesting cuz I don't have anything to say... 
+Heyo, don't hurt me plz.
 
-And I'm pretty active on Github cuz it's the last thing what makes me feel better... **I'm sorry if it's disturbing you. :(**
+ * I do not recommend following me or staring my repositories.. because I don't want to be the one, who's being checked and analyzed by numbers (yes, I don't want to be popular on corpo scene).
+
+ * I'm not following people, because I don't like to stalk them in any case. But I will star repositories.
+
+ * I don't have any social media accounts to talk with you. The only thing what I have is mail and Github.
+
+ * I want to have loneliness instead of people what makes me feel lonely.
+
+ * I don't want to be a tool for others.
 
 #### Contact
 * My email: gameplayer2019pl@tutamail.com
