@@ -16,3 +16,6 @@ Heyo, don't hurt me plz.
 
 #### Software Blacklist
 Blacklist is [here](https://github.com/GamePlayer-8/GamePlayer-8/blob/master/BLACKLIST.md).
+
+### Tor Backups
+`sygqr5ofoydlydxv3nsbvnlgyflao3lz5qbojnes7hd7i5y3ev7di4yd.onion`
