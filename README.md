@@ -18,4 +18,4 @@ Heyo, don't hurt me plz.
 Blacklist is [here](https://github.com/GamePlayer-8/GamePlayer-8/blob/master/BLACKLIST.md).
 
 ### Tor Backups
-`sygqr5ofoydlydxv3nsbvnlgyflao3lz5qbojnes7hd7i5y3ev7di4yd.onion`
+`wuxxy223mzkd3ja6in3ap6e644tkkqy6ric4tevnp7wytd7fxmvynwad.onion`
