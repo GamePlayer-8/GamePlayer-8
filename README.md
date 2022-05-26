@@ -1,5 +1,10 @@
-Heyo, don't hurt me plz.
-
+<p align="center">
+  <a href="https://gameplayer.tru.io">
+    <img src="existence_AeroShade1_Heyo.png" width="400" alt="Welcome screen">
+    <hr>
+  </a>
+</p>
+  
  * I do not recommend following me or staring my repositories.. because I don't want to be the one, who's being checked and analyzed by numbers (yes, I don't want to be popular on corpo scene).
 
  * I'm not following people, because I don't like to stalk them in any case. But I will star repositories.
