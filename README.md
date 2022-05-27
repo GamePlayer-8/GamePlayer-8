@@ -4,14 +4,12 @@
     <hr>
   </a>
 </p>
-  
+
  * I do not recommend following me or staring my repositories.. because I don't want to be the one, who's being checked and analyzed by numbers (yes, I don't want to be popular on corpo scene).
 
  * I'm not following people, because I don't like to stalk them in any case. But I will star repositories.
 
  * I don't have any social media accounts to talk with you. The only thing what I have is mail and Github.
-
- * I want to have loneliness instead of people what makes me feel lonely.
 
  * I don't want to be a tool for others.
 
@@ -22,5 +20,16 @@
 #### Software Blacklist
 Blacklist is [here](https://github.com/GamePlayer-8/GamePlayer-8/blob/master/BLACKLIST.md).
 
-### Tor Backups
-`wuxxy223mzkd3ja6in3ap6e644tkkqy6ric4tevnp7wytd7fxmvynwad.onion`
+### Tor
+ * Backup on phone: `wuxxy223mzkd3ja6in3ap6e644tkkqy6ric4tevnp7wytd7fxmvynwad.onion`
+
+### Donations
+ * Monero: `48wvBLw6KZiV5JzU1isgac2oSQ3KdDKupRCDHkqHQAh8SYgyBJE6sa8ixZePkZPvV1FGtwneXMZFTTJMgRvQbqUn46KDV93`
+ * Bitcoin: `bc1qwcv2lf04mh0vwulnuua99mu5erklwc59j8y4du`
+ * Litecoin: `ltc1qtg58c8g6cljhkvxe3uccg86jtlsk6s0j7drf66`
+
+<p><hr></p>
+
+<p align="center">
+  <b>Have a nice day!</b>
+</p>
