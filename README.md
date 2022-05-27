@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gameplayer.tru.io">
-    <img src="existence_AeroShade1_Heyo.png" width="400" alt="Welcome screen">
+    <img src="existence_AeroShade1_Heyo.png" width="400" alt="Heyo!">
     <hr>
   </a>
 </p>
