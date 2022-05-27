@@ -13,6 +13,10 @@
 
  * I don't want to be a tool for others.
 
+#### About
+
+Yea, I'm **15** years old **male** what works mostly on Github & Tor network. Experimenting with Android phones, Linux kernel, WebSocket networking and SSH tunneling. I live in Poland, but in future I'm going to Iceland (to have a peaceful life).
+
 #### Contact
 * My email: gameplayer2019pl@tutamail.com
 * Website: https://gameplayer.tru.io
