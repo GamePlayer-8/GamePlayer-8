@@ -24,9 +24,6 @@ I'm Jakub Graczykowski, **15** years old **male** what works mostly on Github & 
 #### Software Blacklist
 Blacklist is [here](https://github.com/GamePlayer-8/GamePlayer-8/blob/master/BLACKLIST.md).
 
-### Tor
- * Backup on phone: `wuxxy223mzkd3ja6in3ap6e644tkkqy6ric4tevnp7wytd7fxmvynwad.onion`
-
 ### Donations
  * Monero: `48wvBLw6KZiV5JzU1isgac2oSQ3KdDKupRCDHkqHQAh8SYgyBJE6sa8ixZePkZPvV1FGtwneXMZFTTJMgRvQbqUn46KDV93`
  * Bitcoin: `bc1qwcv2lf04mh0vwulnuua99mu5erklwc59j8y4du`
