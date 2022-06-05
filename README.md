@@ -15,7 +15,7 @@
 
 #### About
 
-I'm Jakub Graczykowski, **15** years old **male** what works mostly on Github & Tor network. Experimenting with Android phones, Linux kernel, WebSocket networking and SSH tunneling. I live in Poland, but in future I'm going to Iceland (to have a peaceful life). 
+I'm Jakub Graczykowski, **15** years old **male** what works mostly on Github & Tor network. Experimenting with Android phones, Linux kernel, WebSocket networking and SSH tunneling.
 
 #### Contact
 * My email: gameplayer2019pl@tutamail.com
